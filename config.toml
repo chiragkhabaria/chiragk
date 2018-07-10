@@ -1,4 +1,4 @@
-title = "Welcome to Chiragk Site"
+title = "The blog of Chirag Khabaria "
 baseURL = "https://chiragkhabaria.github.io/chiragk/"
 
 languageCode = "en-us"
@@ -34,7 +34,7 @@ preserveTaxonomyNames = false
   Description = "El podcast en el que hablamos sobre desarrollo de aplicaciones, operaciones de sistemas informáticos y todo lo relacionado con la filosofía DevOps"
   Subtitle = "El podcast en el que hablamos sobre desarrollo de aplicaciones, operaciones de sistemas informáticos y todo lo relacionado con la filosofía DevOps"
 
-  cover = "/images/cover.jpg"
+  cover = "/images/cover1.jpg"
   logo = "/images/logo2.png"
   icon = "/images/edyo-icon.png"
 
