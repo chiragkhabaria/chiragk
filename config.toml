@@ -35,7 +35,7 @@ preserveTaxonomyNames = false
   Subtitle = "El podcast en el que hablamos sobre desarrollo de aplicaciones, operaciones de sistemas informáticos y todo lo relacionado con la filosofía DevOps"
 
   cover = "/images/cover.jpg"
-  logo = "/images/edyo-logo.png"
+  logo = "/images/logo2.png"
   icon = "/images/edyo-icon.png"
 
   license = "<a target=\"_blank\" href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES\"><i class=\"fab fa-creative-commons\"></i> BY-NC-SA 3.0</a>"
