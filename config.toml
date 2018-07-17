@@ -47,11 +47,11 @@ preserveTaxonomyNames = false
 
   #googleAnalyticsUserID: "UA-25613214-1"
 
-  disqus = "edyo"
-  twitter = "entredevyops"
-  LinkedIn = "EntreDevYOps"
-  github = "edyo"
-  telegram = "entredevyops"
+  disqus = "chiragkhabaria"
+  twitter = "chiragkhabaria"
+  LinkedIn = "chiragkhabaria"
+  github = "chiragkhabaria"
+  
 
   [podcast]
     audioBaseUrl = "http://podcast.edyo.es/podcast/"
