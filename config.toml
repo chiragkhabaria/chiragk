@@ -45,7 +45,7 @@ preserveTaxonomyNames = false
 
   showToc = false
 
-  #googleAnalyticsUserID: "UA-25613214-1"
+  googleAnalyticsUserID= "UA-54044497-6"
 
   disqus = "chiragk-com"
   twitter = "chiragkhabaria"
