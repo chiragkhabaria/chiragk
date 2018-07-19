@@ -2,7 +2,7 @@
 title: "Clock is Ticking"
 date: 2018-07-10T22:25:16-04:00
 draft: false
-image: cover2.jpg
+image: clockticking.jpg
 ---
 
 Our time on earth is limited, person who was alive yesterday and with whom you may have shared those bad, ugly or good moments could be gone tomorrow. 
