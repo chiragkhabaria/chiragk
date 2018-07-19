@@ -32,7 +32,7 @@ preserveTaxonomyNames = false
 [params]
   mainSections = ["posts", "podcasts"]
   Description = ""
-  Subtitle = "Mind may travel through past, future and different horizons but the truth is we are trap in this moment, so let's make this moment  blissful. "
+  Subtitle = "Mind may travel through past, future and different horizons but the truth is we are trap in this moment, so let make this moment  blissful. "
 
   cover = "/images/cover1.jpg"
   logo = "/images/logo2.png"
