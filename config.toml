@@ -31,8 +31,8 @@ preserveTaxonomyNames = false
 
 [params]
   mainSections = ["posts", "podcasts"]
-  Description = "El podcast en el que hablamos sobre desarrollo de aplicaciones, operaciones de sistemas informáticos y todo lo relacionado con la filosofía DevOps"
-  Subtitle = "El podcast en el que hablamos sobre desarrollo de aplicaciones, operaciones de sistemas informáticos y todo lo relacionado con la filosofía DevOps"
+  Description = ""
+  Subtitle = "Mind may travel through past, future and different horizons but the truth is we are trap in this moment, so let his moment be blissful. "
 
   cover = "/images/cover1.jpg"
   logo = "/images/logo2.png"
@@ -49,9 +49,9 @@ preserveTaxonomyNames = false
 
   disqus = "chiragk-com"
   twitter = "chiragkhabaria"
-  LinkedIn = "chiragkhabaria"
+  linkedIn = "chiragkhabaria"
   github = "chiragkhabaria"
-  
+  instagram = "chiragkhabaria"
 
   [podcast]
     audioBaseUrl = "http://podcast.edyo.es/podcast/"
@@ -76,24 +76,3 @@ preserveTaxonomyNames = false
     URL = "/codigo-conducta.html"
     Identifier = "coc"
     Weight = 50
-
-[[menu.subscription]]
-    Name = "Podcast RSS"
-    URL = "https://feedpress.me/edyo"
-    Identifier = "feed-rss-podcasts"
-    Weight = 10
-[[menu.subscription]]
-    Name = "Podcast en iVoox"
-    URL = "https://www.ivoox.com/podcast-entre-dev-y-ops-podcast_sq_f1112910_1.html"
-    Identifier = "ivoox"
-    Weight = 20
-[[menu.subscription]]
-    Name = "Podcast en iTunes"
-    URL = "https://itunes.apple.com/es/podcast/entredevyops-podcast/id866788492"
-    Identifier = "itunes"
-    Weight = 30
-[[menu.subscription]]
-    Name = "Web RSS"
-    URL = "/rss.xml"
-    Identifier = "feed-rss"
-    Weight = 40
